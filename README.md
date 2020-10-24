@@ -1,6 +1,8 @@
 # Overview
 This sample application showcases connecting to multiple Cosmos DB accounts from a single spring boot application. This application is built with Spring Boot 2.3.4  and "Spring Data Cosmos" client library(3.0.0).
 
+More Details in the [Blog](https://www.ravitella.com/spring-cosmos-multi-ds/)
+
 # Instructions
 
 ## First:
